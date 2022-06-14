@@ -4,7 +4,9 @@
 
 This repo comes along-side "Repo Convergence" presentation.
 
-The object of this repo is to demostrate a monorepo of a c/c++ multi-platform project, and other topics talked about in the presentation.
+This repo was created to demostrate a monorepo of a c/c++ multi-platform project, and other topics talked about in the presentation.
+
+The power-point file of the presentation is in the repository, [click here to download it](https://github.com/shachar-xor/repo-convergence/raw/main/Repo_Convergence.pptx)
 
 ## Compilation instructions
 
